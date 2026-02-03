@@ -1,0 +1,131 @@
+[recipe.html](https://github.com/user-attachments/files/25053658/recipe.html)
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Recipe page</title>
+</head>
+
+<body>
+	<wrapper>
+		<header> 
+			<img src="logo1.jpg" class="logo2.jpg" />
+			<h1> Recipe For Everybody</h1>
+					  </header>
+		<main>
+	<img src="banner.jpg" class="banner" />
+			<h2> Bolognese Pasta </h2>
+			<p>Bolognese pasta is a classic comfort dish that balances richness and simplicity in a way that feels both familiar and refined. The sauce is slow-cooked, blending ground meat with tomatoes, onions, garlic, and herbs until everything comes together into a thick, savory mixture. Each bite carries deep, hearty flavors that soak perfectly into the pasta, creating a meal that feels filling without being overwhelming. It’s the kind of dish that works just as well for a quiet dinner at home as it does for a shared meal with friends—reliable, satisfying, and timeless in its appeal.</p>
+			<section>
+			<h3> Ingridents</h3>
+				<h4>
+				<ul>
+				  <li data-start="86" data-end="143">
+				    <p data-start="88" data-end="143">Pasta (such as spaghetti, tagliatelle, or fettuccine)</p>
+			      </li>
+			  </ul>
+                <ul>
+                  <li data-start="144" data-end="187">
+                    <p data-start="146" data-end="187">Ground beef (or a mix of beef and pork)</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="188" data-end="201">
+                    <p data-start="190" data-end="201">Olive oil</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="202" data-end="227">
+                    <p data-start="204" data-end="227">Onion, finely chopped</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="228" data-end="246">
+                    <p data-start="230" data-end="246">Garlic, minced</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="247" data-end="276">
+                    <p data-start="249" data-end="276">Crushed or diced tomatoes</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="277" data-end="293">
+                    <p data-start="279" data-end="293">Tomato paste</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="294" data-end="311">
+                    <p data-start="296" data-end="311">Milk or cream</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="312" data-end="337">
+                    <p data-start="314" data-end="337">Salt and black pepper</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="338" data-end="382">
+                    <p data-start="340" data-end="382">Italian herbs (such as basil or oregano)</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="383" data-end="423">
+                    <p data-start="385" data-end="423">Grated Parmesan cheese (for serving)</p>
+                  </li>
+                </ul>
+                </h4>
+			</section>
+			<section>
+			<h3> INSTRUCTIONS</h3>
+				<h4>
+				<ul>
+				  <li data-start="79" data-end="206">
+				    <p data-start="82" data-end="206">Bring a large pot of salted water to a boil and cook the pasta according to the package instructions. Drain and set aside.</p>
+			      </li>
+			  </ul>
+                <ul>
+                  <li data-start="207" data-end="312">
+                    <p data-start="210" data-end="312">Heat olive oil in a pan over medium heat. Add the chopped onion and cook until soft and translucent.</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="313" data-end="386">
+                    <p data-start="316" data-end="386">Add the minced garlic and cook for about 30 seconds, until fragrant.</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="387" data-end="478">
+                    <p data-start="390" data-end="478">Add the ground meat to the pan and cook until browned, breaking it apart with a spoon.</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="479" data-end="554">
+                    <p data-start="482" data-end="554">Stir in the tomato paste and crushed tomatoes, mixing well to combine.</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="555" data-end="642">
+                    <p data-start="558" data-end="642">Reduce the heat and let the sauce simmer for 15–20 minutes, stirring occasionally.</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="643" data-end="765">
+                    <p data-start="646" data-end="765">Pour in a small amount of milk or cream to soften the acidity of the sauce, then season with salt, pepper, and herbs.</p>
+                  </li>
+                </ul>
+                <ul>
+                  <li data-start="766" data-end="834">
+                    <p data-start="769" data-end="834">Add the cooked pasta to the sauce and toss until evenly coated.</p>
+                  </li>
+                </ul>
+                </h4>
+			</section>
+		</main>
+		<footer>
+		<p>© 2026, Jamely Desroches</p>
+			<p>This is a fictitious web page created solely for the purpose of education and training. All products and people associated with this web page are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p>
+		</footer>
+	</wrapper>
+</body>
+</html>
